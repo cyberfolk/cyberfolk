@@ -11,7 +11,7 @@
   </h3>
   
   <p>
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,vue,nodejs,vite,scss,git,github,postman,stackoverflow,laravel,php">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,js,vue,vite,scss,git,github,postman,stackoverflow,laravel,php&perline=7">
   </p>
 
   <h3>  
