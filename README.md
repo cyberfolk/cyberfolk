@@ -1,7 +1,7 @@
 <div align="center">
  
   <h1>
-   :wave: Hi there i'm Andrea Ferrari :wave: 
+   :wave: Hi there :wave: 
   </h1>
   
   <h3>
