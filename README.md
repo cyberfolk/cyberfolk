@@ -5,9 +5,9 @@
   </h1>
   
   <h3>
-    I've always had passion for coding and role-playng-games but since with games it's hard to eke out a living, in early 2023 I decided to improve my tech-skills with the Full-Stack Web-Developer
+    I've always been passionate about coding and role-playing-games, but I realized earning a living from gaming alone is difficult. So, I decided to improve my tech-skills with the Full-Stack Web-Developer
    <a href="https://boolean.careers/">Boolean</a>
-    cours
+    course.
   </h3>
   
   <p>
