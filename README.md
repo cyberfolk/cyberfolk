@@ -8,7 +8,7 @@
   
   <h3>
     I've always been passionate about coding and RPG, <br>
-    but I realized earning a living from gaming is difficult. <br>
+    but earning a living from gaming is difficult. <br>
     So, I decided to improve my tech-skills with <br>
     Full-Stack Web-Developer
    <a href="https://boolean.careers/">Boolean</a>
