@@ -7,12 +7,10 @@
 
   
   <h3>
-    I've always been passionate about coding and RPG, <br>
-    but earning a living from gaming is difficult. <br>
-    So, I decided to improve my tech-skills with <br>
-    Full-Stack Web-Developer
-   <a href="https://boolean.careers/">Boolean</a>
-    course.
+   I've always been passionate about coding and RPGs, <br/>
+   but earning a living from gaming is difficult. <br/>
+   So, I decided to improve my tech skills with a <br/>
+   Full-Stack Web Developer course at <a href="https://boolean.careers/">Boolean</a>
   </h3>
   
   <p>
